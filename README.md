@@ -4,7 +4,7 @@ Project developed using data from the Automobile Dataset whose objective is to p
 
 The project was developed in the order of these three files below:
 
-- data cleansing.ipynb
+- data_cleaning.ipynb
 - data_analysis.ipynb
 - data_processing.ipynb
 
